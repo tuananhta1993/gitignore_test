@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: wad.controller.AuthenticationControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.962 sec - in wad.controller.AuthenticationControllerTest

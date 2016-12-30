@@ -1,0 +1,4 @@
+wad/controller/AuthenticationControllerTest.class
+wad/config/SecurityConfigurationTest.class
+wad/controller/WordControllerTest.class
+wad/controller/WordDetailControllerTest.class
